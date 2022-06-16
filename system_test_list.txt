@@ -39,7 +39,7 @@ contact/examples/3D/friction/high-school-physics-slopetest-mu=0.50.json
 contact/examples/3D/friction/arch.json
 contact/examples/3D/friction/stick-slip.json
 contact/examples/3D/friction/card-house.json
-contact/examples/3D/rigid/screw.json
+#contact/examples/3D/rigid/screw.json
 contact/examples/3D/unit-tests/erleben/sliding-wedge.json
 contact/examples/3D/unit-tests/erleben/spike-in-hole.json
 contact/examples/3D/unit-tests/erleben/sliding-spike.json
